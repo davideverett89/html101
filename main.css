@@ -57,7 +57,13 @@ section {
     border: 2px solid;
     border-radius: 40px;
     padding: 30px;
-    margin: 10px;
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.card:hover {
+    background-color: white;
 }
 
 img {
