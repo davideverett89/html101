@@ -47,3 +47,9 @@ footer {
 footer:hover {
     background-color: wheat;
 }
+
+section {
+    margin: 20px;
+    padding: 10px;
+
+}
