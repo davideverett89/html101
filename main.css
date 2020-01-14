@@ -39,7 +39,6 @@ footer {
     color: white;
     background-color: tomato;
     padding: 20px;
-    position: fixed;
     left: 0;
     bottom: 0;
 }
@@ -52,4 +51,15 @@ section {
     margin: 20px;
     padding: 10px;
 
+}
+
+.card {
+    border: 2px solid;
+    border-radius: 40px;
+    padding: 30px;
+    margin: 10px;
+}
+
+img {
+    height: 100px;
 }
